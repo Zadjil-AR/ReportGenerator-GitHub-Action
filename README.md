@@ -280,3 +280,4 @@ The following extensions exist to visualize coverage in Visual Studio:
 Author: Daniel Palme  
 Blog: [www.palmmedia.de](https://www.palmmedia.de)  
 Twitter: [@danielpalme](https://twitter.com/danielpalme)  
+ 
